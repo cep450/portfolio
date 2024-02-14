@@ -1,0 +1,28 @@
+slug:		//url slug	'tokyorhythmfighter'
+title:		//project title 'Tokyo Rhythm Fighter'
+
+tagline:	//'Rhythm boss-battler'
+elevator: 	//'Freestyle rhythm boss rush where you fight to the beat.'
+
+projectlength: 	//'4 weeks'
+start:		//'january 2023'
+end: 		//'march 2023' or 'ongoing'
+
+teamsize: 	//'5'
+role: 		//'programming and design'
+tools: 		//'Unity C#'
+context: 	//'for class, entirely remote'
+
+gif: 		//gif to play on hover.
+gifstill: 	//single image that's also the starting frame of the gif.
+video: 		//url. youtube? since will be the same on itch. 
+images: 	//array of urls. file paths really.
+
+repo: 		//link to project repo. 
+gamelink: 	//link to project itch page / page where it's hosted / website.
+
+writeup: 	//long multi paragraph explaination of the project. 
+
+
+
+
